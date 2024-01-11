@@ -47,4 +47,8 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
