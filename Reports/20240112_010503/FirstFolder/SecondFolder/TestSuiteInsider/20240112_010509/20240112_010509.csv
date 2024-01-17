@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
 TestSuiteInsider,Chrome 120.0.6099.199,,,2024-01-12 01:05:20,2024-01-12 01:05:31,10.765s,PASSED
 ,,,,,,,
@@ -9,3 +10,16 @@ Test Cases/New Test Case,Chrome 120.0.6099.199,,,2024-01-12 01:05:20,2024-01-12 
 "setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 120.0.6099.199,,,2024-01-12 01:05:29,2024-01-12 01:05:30,0.250s,PASSED
 "click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Chrome 120.0.6099.199,,,2024-01-12 01:05:30,2024-01-12 01:05:31,0.976s,PASSED
 closeBrowser(),Chrome 120.0.6099.199,,,2024-01-12 01:05:31,2024-01-12 01:05:31,0.103s,PASSED
+=======
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuiteInsider,Chrome 120.0.6099.199,,,2024-01-12 01:05:20,2024-01-12 01:05:31,10.765s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 120.0.6099.199,,,2024-01-12 01:05:20,2024-01-12 01:05:31,10.460s,PASSED
+"openBrowser("""")",Chrome 120.0.6099.199,,,2024-01-12 01:05:21,2024-01-12 01:05:24,3.738s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 120.0.6099.199,,,2024-01-12 01:05:24,2024-01-12 01:05:28,3.683s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)""))",Chrome 120.0.6099.199,,,2024-01-12 01:05:28,2024-01-12 01:05:29,1.063s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 120.0.6099.199,,,2024-01-12 01:05:29,2024-01-12 01:05:29,0.397s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 120.0.6099.199,,,2024-01-12 01:05:29,2024-01-12 01:05:30,0.250s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Chrome 120.0.6099.199,,,2024-01-12 01:05:30,2024-01-12 01:05:31,0.976s,PASSED
+closeBrowser(),Chrome 120.0.6099.199,,,2024-01-12 01:05:31,2024-01-12 01:05:31,0.103s,PASSED
+>>>>>>> branch 'main' of https://BhavyanshKatalon27@bitbucket.org/bhavyakat/testrepo1.git

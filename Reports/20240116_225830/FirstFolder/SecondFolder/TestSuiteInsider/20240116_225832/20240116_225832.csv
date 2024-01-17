@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuiteInsider,Windows - Chrome 119.0.0.0,,,2024-01-16 22:58:44,2024-01-16 23:00:31,1m - 46.825s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Windows - Chrome 119.0.0.0,,,2024-01-16 22:58:51,2024-01-16 23:00:31,1m - 40.179s,PASSED
+Start setup action : setupTestCase,Windows - Chrome 119.0.0.0,,,2024-01-16 22:58:51,2024-01-16 22:59:32,40.713s,PASSED
+"openBrowser("""")",Windows - Chrome 119.0.0.0,,,2024-01-16 22:59:32,2024-01-16 23:00:10,38.073s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:10,2024-01-16 23:00:11,0.813s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)""))",Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:11,2024-01-16 23:00:14,3.608s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:14,2024-01-16 23:00:21,6.711s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:21,2024-01-16 23:00:25,4.209s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:25,2024-01-16 23:00:29,3.476s,PASSED
+hey = com.bhavya.custom.dateGenerator.generateDateOfBirth.generate(),Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:29,2024-01-16 23:00:29,0.084s,PASSED
+println(hey),Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:29,2024-01-16 23:00:29,0.008s,PASSED
+refresh(),Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:29,2024-01-16 23:00:30,0.934s,PASSED
+closeBrowser(),Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:30,2024-01-16 23:00:31,1.237s,PASSED
+Start tear down : tearDownTestCase,Windows - Chrome 119.0.0.0,,,2024-01-16 23:00:31,2024-01-16 23:00:31,0.023s,PASSED

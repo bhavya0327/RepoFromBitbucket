@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
 TestSuiteInsider,,,,16-01-2024 22:39:52,16-01-2024 22:39:52,0.000s,SKIPPED
+=======
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuiteInsider,,,,16-01-2024 22:39:52,16-01-2024 22:39:52,0.000s,SKIPPED
+>>>>>>> branch 'main' of https://BhavyanshKatalon27@bitbucket.org/bhavyakat/testrepo1.git
