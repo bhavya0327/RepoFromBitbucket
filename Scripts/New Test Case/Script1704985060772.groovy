@@ -14,11 +14,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
-String hey = CustomKeywords.'com.bhavya.custom.dateGenerator.generateDateOfBirth.generate'()
+//String hey = CustomKeywords.'com.bhavya.custom.dateGenerator.generateDateOfBirth.generate'()
 
-println(hey)
+//println(hey)
 
-WebUI.refresh()
+//WebUI.refresh()
 
 //Randome r = new Random()
 
