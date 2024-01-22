@@ -1,11 +1,11 @@
 {
-  "keywordFileContentHash": "0F41927873D467683ECAA6E266CE0338",
+  "keywordFileContentHash": "895E95829EF7236A03A54BD381D7F282",
   "keywordClasses": [
     {
-      "name": "com.bhavya.custom.dateGenerator.generateDateOfBirth",
+      "name": "com.bhavya.custom.dateGenerator.GenerateDateOfBirth",
       "keywordMethods": [
         {
-          "name": "generate",
+          "name": "methodResult",
           "parameters": [],
           "javadoc": ""
         }

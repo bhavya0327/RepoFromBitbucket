@@ -38,12 +38,14 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_visit_date'))
 
-//String date = "27/12/2000"
+////String date = "27/12/2000"
+//
+//String date = CustomKeywords.'com.bhavya.custom.dateGenerator.GenerateDateOfBirth.methodResult'()
+////println(date)
 
-//String date = CustomKeywords.'com.bhavya.custom.dateGenerator.generateDateOfBirth.genErate'()
-//println(date)
 
-//WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_visit_date'), date)
+
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_visit_date'), date)
 
 
 
